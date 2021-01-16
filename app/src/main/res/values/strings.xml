@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="titleitext">Alert Title</string>
+    <string name="messagetext">Do you want to exit?</string>
+
+    <string-array name="country">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Srilanka</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Maldip</item>
+        <item>Malaysia</item>
+        <item>America</item>
+        <item>Canada</item>
+    </string-array>
+</resources>
